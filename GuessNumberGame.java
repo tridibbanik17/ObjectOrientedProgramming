@@ -1,5 +1,5 @@
 
-/*Author: Tridib Banik, Student Number: 400514461, MacID: banikt 
+/*Author: Tridib Banik, McMaster University, Software Engineering Level II.
  *This program matches the number that the user entered with a randomly generated number.
   User needs to guess the number within 10 attempts to be successful.
  */
