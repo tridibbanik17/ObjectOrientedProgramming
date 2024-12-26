@@ -4,8 +4,6 @@
   translated to their numeric equivalent.
  */
 
-package assignment03q2_package;
-
 import java.util.Scanner;
 
 public class PhoneNumberExtractor

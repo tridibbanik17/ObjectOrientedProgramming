@@ -1,4 +1,3 @@
-package assignment02q2_package;
 import java.util.InputMismatchException;
 import java.util.Scanner;
 

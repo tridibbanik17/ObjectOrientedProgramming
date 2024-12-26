@@ -4,8 +4,6 @@
   User needs to guess the number within 10 attempts to be successful.
  */
 
-package assignment03q4_package;
-
 import java.util.InputMismatchException;
 import java.util.Random;
 import java.util.Scanner;

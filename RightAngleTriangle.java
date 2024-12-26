@@ -1,10 +1,9 @@
-package assignment02q3_package;
-import java.util.InputMismatchException;
-import java.util.Scanner;
-
 /*Author: Tridib Banik, McMaster University, Software Engineering Level II.
  *This program prints a right-angle triangle corresponding to the user entered integer.
  */
+
+import java.util.InputMismatchException;
+import java.util.Scanner;
 
 public class RightAngleTriangle {
     //triangleGenerator() method takes userInput as an integer and returns a right-angle triangle corresponding to the value of userInput.
