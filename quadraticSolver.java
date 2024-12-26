@@ -1,5 +1,5 @@
 
-/*Author: Tridib Banik, Student Number: 400514461, MacID: banikt 
+/*Author: Tridib Banik, McMaster University, Software Engineering Level II.
  *This program solves a quadratic equation and outputs the roots if exists.
  */
 
