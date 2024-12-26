@@ -1,5 +1,5 @@
 
-/*Author: Tridib Banik, Student Number: 400514461, MacID: banikt 
+/*Author: Tridib Banik, McMaster University, Software Engineering Level II.
  *This program displays the telephone number with any alphabetic characters that appeared in the original 
   translated to their numeric equivalent.
  */
