@@ -1,9 +1,7 @@
-
 /*Author: Tridib Banik, McMaster University, Software Engineering Level II.
  *This program solves a quadratic equation and outputs the roots if exists.
  */
 
-package assignment03q1_package;
 import java.util.InputMismatchException;
 import java.util.Scanner;
 
