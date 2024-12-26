@@ -2,7 +2,6 @@
 This Java program finds the area and the perimeter of a circle according to the radius input by the user.
 */
 
-package assignment01q2_package;
 import java.util.Scanner; //import the Scanner class to get the user input.
 
 
