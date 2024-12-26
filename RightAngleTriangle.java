@@ -2,7 +2,7 @@ package assignment02q3_package;
 import java.util.InputMismatchException;
 import java.util.Scanner;
 
-/*Author: Tridib Banik, Student Number: 400514461, MacID: banikt 
+/*Author: Tridib Banik, McMaster University, Software Engineering Level II.
  *This program prints a right-angle triangle corresponding to the user entered integer.
  */
 
