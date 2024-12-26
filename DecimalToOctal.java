@@ -2,7 +2,7 @@ package assignment02q1_package;
 import java.util.InputMismatchException;
 import java.util.Scanner;
 
-/*Author: Tridib Banik, Student Number: 400514461, MacID: banikt 
+/*Author: Tridib Banik, McMaster University, Software Engineering Level II.
  *This program converts a decimal integer between -1000 and 1000 to an octal integer.
  */
 
