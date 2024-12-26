@@ -2,7 +2,7 @@ package assignment02q2_package;
 import java.util.InputMismatchException;
 import java.util.Scanner;
 
-/*Author: Tridib Banik, Student Number: 400514461, MacID: banikt 
+/*Author: Tridib Banik, McMaster University, Software Engineering Level II.
  *This program outputs string of integers in a range of 1 to user Input that are divisible by either 3, 5, or both.
  */
 
