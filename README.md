@@ -58,8 +58,6 @@ The repository is organized into several directories, each containing related Ja
 
 The architecture showcases the application of object-oriented principles in designing and implementing various functionalities.
 
-![Architecture Diagram](https://github.com/user-attachments/assets/721b7fb3-e480-4809-9023-fd48b82b1f8c)
-
 ## Getting Started
 
 To run the Java programs in this repository, you need to have the Java Development Kit (JDK) installed on your system.
